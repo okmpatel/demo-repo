@@ -1,3 +1,3 @@
 # GIT
 
-learning git
+learning git:
